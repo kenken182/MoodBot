@@ -2,10 +2,10 @@
 MoodBot analyzes audio to break down the emotions of the speaker to help get a scope of their speaker's mental health.
 
 # Images
-![Picture1](https://imgur.com/MHoUog9)
-![Picture2](https://imgur.com/ExBs5LJ)
-![Picture3](https://imgur.com/tfapLKG)
-![Picture4](https://imgur.com/hybltwd)
+![Picture1](https://i.imgur.com/MHoUog9.png)
+![Picture2](https://i.imgur.com/ExBs5LJ.png)
+![Picture3](https://i.imgur.com/tfapLKG.png)
+![Picture4](https://i.imgur.com/hybltwd.png)
 
 # Requirements 
 In order to use this, you need to get AWS S3, Azure Coginitive API and IBM Watson credentials:
